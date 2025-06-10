@@ -14,7 +14,7 @@ Visualización de datos con Python: Matplotlib, Seaborn y Plotly.
 - Jupyter Notebooks
 
 
-✅ Analisis realizados:
+✅ Análisis realizados:
 - Importar CSV
 - Colocar la columna país como índice
 - Crear una lista con todos los años
@@ -36,7 +36,7 @@ Visualización de datos con Python: Matplotlib, Seaborn y Plotly.
 ⚙️ Instrucciones para ejecutar el notebook:
 
 - Descarga el archivo .ipynb
-- Inicia sesion con tu cuenta de Gmail
+- Inicia sesión con tu cuenta de Gmail
 - Abre Google Colab en https://colab.google/
 - Presiona Open Colab
 - Luego la pestaña subir
